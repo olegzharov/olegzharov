@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/568/239/png-transparent-freebsd-bsd-daemon-computer-icons-berkeley-software-distribution-flat-circle-logo-fictional-character-silhouette.png" title="freebsd" alt="freebsd" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/568/239/png-transparent-freebsd-bsd-daemon-computer-icons-berkeley-software-distribution-flat-circle-logo-fictional-character-silhouette.png" title="freebsd" alt="freebsd" width="80" height="40"/>&nbsp;
 </div>
 ---
 
