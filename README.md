@@ -11,6 +11,7 @@
   <p>Hey there!</p>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Oleg Zharov, Network Architect
@@ -18,7 +19,6 @@
 - 📫 You can easily reach me in [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-zharov-18506a2/)
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
