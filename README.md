@@ -43,6 +43,7 @@ TBA
 
 <!---
 https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
+https://devicon.dev/
 
 olegzharov/olegzharov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
